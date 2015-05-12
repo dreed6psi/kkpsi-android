@@ -12,7 +12,9 @@
 bin/
 gen/
 
-#Android Studio
+# Android Studio
+*.iml
+.idea
 workspace.xml
 tasks.xml
 
